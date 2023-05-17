@@ -1,6 +1,6 @@
-# UwULang
+# UwULang in Python
 
-The best programming language to take over the world
+The best programming language to take over the world implemented in Python
 
 - 👆 - increment
 - 👇 - decrement
